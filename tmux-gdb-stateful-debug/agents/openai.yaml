@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tmux GDB Stateful Debugger"
+  short_description: "Persistent tmux+gdb flow for pwn/reversing"
+  default_prompt: "Use $tmux-gdb-stateful-debug to keep a persistent tmux-backed gdb session while debugging this pwn or reversing target."
