@@ -1,4 +1,0 @@
-interface:
-  display_name: "Recon"
-  short_description: "Binary recon for pwn attack surface analysis"
-  default_prompt: "Use $recon to triage ELF binaries, prioritize ida-pro-mcp analysis, and fall back to local binary tooling when MCP is unavailable."

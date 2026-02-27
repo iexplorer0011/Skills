@@ -1,4 +1,0 @@
-interface:
-  display_name: "Documenter"
-  short_description: "Write CTF pwn writeups from exploit evidence"
-  default_prompt: "Use $documenter after shell or flag acquisition to produce WRITEUP.md with Summary, Vulnerability Analysis, Exploit Script, and Flag/Proof evidence."
